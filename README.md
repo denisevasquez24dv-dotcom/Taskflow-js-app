@@ -48,6 +48,8 @@ Capturas de pantalla
 <img width="822" height="624" alt="image" src="https://github.com/user-attachments/assets/108d8ef9-abca-4958-a055-3f8d2086b434" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/439b5399-2937-4986-9453-068a70a47708" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1740e671-3425-44aa-8e94-29216eb497f3" />
+<img width="735" height="584" alt="image" src="https://github.com/user-attachments/assets/6f5be93d-4fac-43df-aa5c-623e1c695a2c" />
+<img width="953" height="658" alt="image" src="https://github.com/user-attachments/assets/2a88af17-9ab6-4578-9522-ced47fc4dcff" />
 <img width="619" height="462" alt="image" src="https://github.com/user-attachments/assets/ba441164-72d1-4407-9609-560924cc3d74" />
 
 Autor: Denise Vásquez Espinoza 
