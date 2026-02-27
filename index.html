@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TaskFlow | Gestión de Tareas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>TaskFlow</h1>
+            <p>Programación Avanzada JS</p>
+        </header>
+
+        <form id="form-tareas">
+            <div class="input-group">
+                <input type="text" id="input-tarea" placeholder="¿Qué tienes pendiente?" required>
+                <button type="submit" id="btn-agregar">Agregar</button>
+            </div>
+        </form>
+
+        <ul id="lista-tareas">
+            </ul>
+        
+        <div id="status-msg" style="text-align: center; color: #666; font-size: 0.9rem;"></div>
+    </div>
+
+    <script src="api.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
