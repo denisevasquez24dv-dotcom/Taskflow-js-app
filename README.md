@@ -1,4 +1,4 @@
-Taskflow: Gestor de tareas
+Taskflow: Gestor de Tareas
 Este proyecto es un gestor de tareas dinámico, desarrollado para el módulo de Programación avanzada en Javascript.
 La aplicación combina una interfaz moderna con lógica basada en estándares actuales. La herramienta permite crear, listar y eliminar tareas, garantizando que la información se mantenga guardada incluso despúes de cerrar el navegador.
 
@@ -45,7 +45,7 @@ Referencias:
 •	W3Schools CSS Flexbox: Guía utilizada para el diseño responsivo y la alineación de elementos en el contenedor principal de la aplicación.
 
 Capturas de pantalla 
-<img width="822" height="624" alt="image" src="https://github.com/user-attachments/assets/108d8ef9-abca-4958-a055-3f8d2086b434" />
+<img width="860" height="548" alt="image" src="https://github.com/user-attachments/assets/0255b8a0-57a1-4694-a2ff-040a2cd3c19b" />
 <img width="953" height="658" alt="image" src="https://github.com/user-attachments/assets/2a88af17-9ab6-4578-9522-ced47fc4dcff" />
 <img width="735" height="584" alt="image" src="https://github.com/user-attachments/assets/6f5be93d-4fac-43df-aa5c-623e1c695a2c" />
 <img width="619" height="462" alt="image" src="https://github.com/user-attachments/assets/ba441164-72d1-4407-9609-560924cc3d74" />
